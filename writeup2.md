@@ -6,7 +6,7 @@ On check la version du kernel:
 zaz@BornToSecHackMe:~$ uname -r
 3.2.0-91-generic-pae
 ```
-on trouve l'exploit selon la version:
+on trouve l'exploit selon la version le fameux "Dirty COW":
 
 CVE: 2016-5195
 
